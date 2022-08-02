@@ -154,12 +154,13 @@ audio{
 /*titulos*/ 
 h1{ 
     
-    background-color: black;
+    
     display: flex;
     text-align: center;
     justify-items:center;
     align-items: center;
     margin-bottom: 15px;
+    background-image:-o-linear-gradient(red,blue);
    
     
    
@@ -176,6 +177,7 @@ h1{
        text-decoration-color: black;
        color: rgb(241, 237, 237);
 }
+
 
 fieldset{
    
@@ -236,6 +238,9 @@ p {
     margin-top: 80px;
     position: absolute;
 }
+
+/**gradientes**/
+
 
 /**media queries**/
 @media only screen and (max-width:768px) {
