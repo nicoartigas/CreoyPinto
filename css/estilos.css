@@ -153,24 +153,16 @@ audio{
 }
 /*titulos*/ 
 h1{ 
-    
-    
     display: flex;
     text-align: center;
     justify-items:center;
     align-items: center;
     margin-bottom: 15px;
     background-image:-o-linear-gradient(red,blue);
-   
-    
-   
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color:rgb(247, 244, 244);
-    
-      
-  
-    
 }
+
 .redessociales {
        text-align: center;
        font-size:x-large;
@@ -183,12 +175,13 @@ fieldset{
    
     font-family: oswald;
     background-color: black;
-    background-position: 25%;
+    background-position: 2%;
     color: rgb(241, 239, 239);
     font-size: 35px;
-    width: 70%;
+    width: 60%;
     left: 50%;
-    margin-left: 8%;
+    height: 20%;
+    margin-left: 5%;
     text-align: center;
     margin-top: 30%;
 }
