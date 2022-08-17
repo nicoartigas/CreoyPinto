@@ -3,20 +3,18 @@
 
 
 body {
-    
     background-color: rgb(69, 74, 82);
     background-image:url("../image/fondopag.jpg");
     text-align:center;
     justify-content: center;
-    
-
     margin: top;
     padding: 0;
     position: 50px;
-    
     font-size: 2rem;
 }
 
+/* Sass */ 
+$colorPrincipal: black;
 
 html {
     font-size: 15px;
@@ -38,7 +36,7 @@ html {
 }
 
 
-nav ul li{
+nav ul li {
     padding:50px 10px ;
     display: inline-block;
     margin-top: auto;
@@ -51,6 +49,7 @@ nav ul li{
     font-size: medium;
   
 }
+
 
 
 .flex-container{ 
@@ -66,8 +65,6 @@ nav ul li{
     margin: 5px;
     height: 10px;
 }
-
-
 
 div{
     background: none;
