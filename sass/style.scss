@@ -49,28 +49,21 @@ nav ul li {
     font-size: medium;
   
 }
-
-
-
-.flex-container{ 
+/* anidado con Scss */
+.flex-container { 
     display: flex;
     justify-content:center;
     align-items: center;
     position:initial; 
     letter-spacing: 5px;
+ div{
+        flex-basis: 100%;
+        margin: 5px;
+        height: 10px;
+        background: none;
+ }
 }
-
-.flex-container div{
-    flex-basis: 100%;
-    margin: 5px;
-    height: 10px;
-}
-
-div{
-    background: none;
-    
-}
-
+ 
 /* Galeria */
 
 .container {
@@ -288,4 +281,3 @@ p {
 
 
     
-
