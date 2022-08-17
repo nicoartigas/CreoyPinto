@@ -205,12 +205,12 @@ p {
     flex-direction: row;
     width: 70%;
     left: 50%;
-    margin-left: 8%;
+    margin-left: 15%;
     justify-content: center;
     align-items: center;
     font-family: oswald;
     color: rgba(223, 191, 191, 0.993);
-    letter-spacing: 5px;
+    letter-spacing: 10px;
     font-size: 22px;
     text-align:center;
     padding: 50px 100px;
