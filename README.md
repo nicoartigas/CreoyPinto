@@ -101,7 +101,8 @@
     <img  src="![imagen text](https://github.com/nicoartigas/nicoartigas.github.io/blob/main/ganchos%20madera.jpg)" alt="ganchos para ropa" title="Ganchos para ropa" width="600" height="500"/>
    
    
-   <img  src="![imagen text](https://github.com/nicoartigas/nicoartigas.github.io/blob/main/MATERA.jpg)" alt="matera en madera" title="matera en madera" width="300" height="400"/>
+   <img  src="![image text](https://github.com/nicoartigas/nicoartigas.github.io/blob/main/MATERA.jpg)" alt="matera en madera" title="matera en madera" width="300" height="400"/>
+
     </div>    
     
     
@@ -300,7 +301,7 @@
 
 body {
     background-color: rgb(69, 74, 82);
-    background-image:url("../image/fondopag.jpg");
+    background-image:url("../image/fondo pag. claro.jpg");
     text-align:center;
     justify-content: center;
     margin: top;
@@ -461,15 +462,18 @@ iframe{
     margin-left: 15%;
 }
 
-/* musica */
-
-audio{
-   background-color: brown;
-   flex-direction: row;
-    width: 100%;
-    margin-top:  40%;
-    justify-content: center;
-    
+fieldset{
+   
+    font-family: oswald;
+    background-color: map-get($estilos, black );
+    background-position: 25%;
+    color: rgb(241, 239, 239);
+    font-size: 35px;
+    width: 70%;
+    left: 50%;
+    margin-left: 8%;
+    text-align: center;
+    margin-top: 30%;
 }
 
 h1{ 
@@ -484,23 +488,7 @@ h1{
     letter-spacing: 5px;
     margin:10%; 
     min-height: 576px;
-    align-items:center;
-  
-    
-}
-
-fieldset{
-   
-    font-family: oswald;
-    background-color: map-get($estilos, black );
-    background-position: 25%;
-    color: rgb(241, 239, 239);
-    font-size: 35px;
-    width: 70%;
-    left: 50%;
-    margin-left: 8%;
-    text-align: center;
-    margin-top: 30%;
+    align-items:center;    
 }
 
 p {

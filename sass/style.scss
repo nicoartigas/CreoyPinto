@@ -3,8 +3,8 @@
 
 
 body {
-    background-color: rgb(69, 74, 82);
-    background-image:url("../image/fondopag.jpg");
+    background-color: rgb(206, 204, 204);
+    background-image:url("../image/fondo\ pag.\ claro.jpg");
     text-align:center;
     justify-content: center;
     margin: top;
@@ -165,16 +165,9 @@ iframe{
     margin-left: 15%;
 }
 
-/* musica */
 
-audio{
-   background-color: brown;
-   flex-direction: row;
-    width: 100%;
-    margin-top:  40%;
-    justify-content: center;
-    
-}
+
+
 
 h1{ 
     display: grid;
@@ -224,7 +217,17 @@ p {
     text-align:center;
     padding: 50px 100px;
 }
-
+/*redes sociales*/
+.instagram {
+    background-image: url(../image/logo\ instagram.jpg);
+    width: 0;
+    height: 0;
+    right: 0;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+}
 
     
 .logo {
