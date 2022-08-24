@@ -106,9 +106,9 @@
 	<img  src="![imagen text](https://github.com/nicoartigas/nicoartigas.github.io/blob/main/soporte%20de%20cel.jpg)" alt="soporte par celulares de madera" title="Soporte de celulares en madera" width="250" height="250" />
 
 
-    <img  src=" ![imagen text]( https://github.com/nicoartigas/nicoartigas.github.io/blob/main/soporte%20compu.jpg)" alt="soporte para netbook" title="Soporte para netbook" width="600" height="500"/>
+    <img  src=" ![imagen text]( https://github.com/nicoartigas/nicoartigas.github.io/blob/main/soporte%20compu.jpg)" alt="soporte para netbook" title="Soporte para netbook" width="300" height="200"/>
 		
-    <img  src="![imagen text](https://github.com/nicoartigas/nicoartigas.github.io/blob/main/ganchos%20madera.jpg)" alt="ganchos para ropa" title="Ganchos para ropa" width="600" height="500"/>
+    <img  src="![imagen text](https://github.com/nicoartigas/nicoartigas.github.io/blob/main/ganchos%20madera.jpg)" alt="ganchos para ropa" title="Ganchos para ropa" width="400" height="300"/>
    
    
    <img  src="![image text](https://github.com/nicoartigas/nicoartigas.github.io/blob/main/MATERA.jpg)"
@@ -121,7 +121,7 @@
 
     <img   src=" ![image text](https://github.com/nicoartigas/nicoartigas.github.io/blob/main/frascos%20decorados.jpg)  " alt="reciclaje de casa" title="reciclaje de casa" width="500" height="300"/>
 	
-    <img    src="![iamge text](https://github.com/nicoartigas/nicoartigas.github.io/blob/main/reciclaje.jpg) " alt="frascos decorados" title="frascos decorados" width="700" height="400"/>
+    <img    src="![iamge text](https://github.com/nicoartigas/nicoartigas.github.io/blob/main/reciclaje.jpg) " alt="frascos decorados" title="frascos decorados" width="500" height="300"/>
 	
     <img  src="![imagen text](https://github.com/nicoartigas/nicoartigas.github.io/blob/main/frascos%20arroz.jpg)" alt="decoracion de cocina" title="Decoracion de cocina" width="400" height="200"/>
 	
@@ -132,9 +132,9 @@
 	
     <img   src="![image text](https://github.com/nicoartigas/nicoartigas.github.io/blob/main/abridor%20de%20botella.jpg)" alt="Abridor de botellas" title="Abridor de botellas" width="300" height="400"/>
 	
-    <img   src="![image text](https://github.com/nicoartigas/nicoartigas.github.io/blob/main/abridor2.jpg)" alt="proceso de trabajo" title="proceso de trabajo" width="500" height="300"/>
+    <img   src="![image text](https://github.com/nicoartigas/nicoartigas.github.io/blob/main/abridor2.jpg)" alt="proceso de trabajo" title="proceso de trabajo" width="370" height="200"/>
 	
-    <img src="![image text](https://github.com/nicoartigas/nicoartigas.github.io/blob/main/porta%20cerveza.jpg)" alt="porta cerveza" title="porta cerveza" width="600" height="400"/>
+    <img src="![image text](https://github.com/nicoartigas/nicoartigas.github.io/blob/main/porta%20cerveza.jpg)" alt="porta cerveza" title="porta cerveza" width="400" height="200"/>
 	
     <img src="![image text](https://github.com/nicoartigas/nicoartigas.github.io/blob/main/aviso%20chorizo.jpg)" alt="corta vientos" title="corta vientos" width="500" height="300"/>
     </div>
@@ -142,9 +142,9 @@
         <div class="lanas"class="row aling-items-center header-main justify-content-left" >
     <img   src="![image text](https://github.com/nicoartigas/nicoartigas.github.io/blob/main/zapatitos%20de%20bebe.jpg)" alt="Zapatitos de bebes" title="Zapatitos de bebe" width="500" height="400"/>
 	
-    <img    src="![image text](https://github.com/nicoartigas/nicoartigas.github.io/blob/main/ZAPATOS%20DE%20LANA.jpg)" alt="lana trabajos" title="trabajos con lana" width="500" height="400"/> 
+    <img    src="![image text](https://github.com/nicoartigas/nicoartigas.github.io/blob/main/ZAPATOS%20DE%20LANA.jpg)" alt="lana trabajos" title="trabajos con lana" width="350" height="200"/> 
 	
-    <img  src="![image text](https://github.com/nicoartigas/nicoartigas.github.io/blob/main/lana2.jpg)" alt="zapatos de lana" title="zapatos de lana" width="500" height="400"/>
+    <img  src="![image text](https://github.com/nicoartigas/nicoartigas.github.io/blob/main/lana2.jpg)" alt="zapatos de lana" title="zapatos de lana" width="350" height="200"/>
     <img src="image/tela frascos.jpg" alt="decoracion en lana" title="decoracion en lanas" width="400" height="300"/>
 
     </div>
