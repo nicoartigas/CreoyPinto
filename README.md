@@ -30,9 +30,11 @@
           </div>
         </div>
       </nav>
+      <header class="row aling-items-center header-main justify-content-center">
+  <div class="col-md-7 text-center text-md-start"></div>
 ![image text](https://github.com/nicoartigas/nicoartigas.github.io/blob/main/logo.jpg)
 
-    <p>Feriantes, un local feriante tipico de la cultura uruguaya. Personas merodeando entre las calles de un sitio observando los diferentes stands de todo lo que puedas imaginar, despertando el interes instantaneo, pues la feria.
+    <p class="row aling-items-center header-main justify-content-center">Feriantes, un local feriante tipico de la cultura uruguaya. Personas merodeando entre las calles de un sitio observando los diferentes stands de todo lo que puedas imaginar, despertando el interes instantaneo, pues la feria.
   es un lugar unico bajo el cielo azul de un domingo a la mañana, mate bajo el brazo y pasos lentos.
   El aroma inconfundible de comidas a la parrilla, pastas entre otras rapidas salidas para el medio dia de un dia 
   donde lo tipico es no cocinar. 
@@ -46,12 +48,16 @@
   La feria ese rincon en calles donde los domingos son un paseo obligatorio, una tradicion, donde esta todo lo que necesites
   y mas, donde una tradicion uruguaya se complementa con lo simples. 
 </p>
+
+</header>
 </cuerpo>
 <cuerpo>
+ <header class="row aling-items-center header-main justify-content-center">
+            <div class="col-md-7 text-center text-md-start"> </div>
 
     <h1 > Nosotros a que nos dedicamos... </h1>
 
-    <p> Somos una pareja de personas mayores que nos dedicamos a producir en
+    <p class="row aling-items-center header-main justify-content-center"> Somos una pareja de personas mayores que nos dedicamos a producir en
         diferentes formas, arte, arte en madera para decoracion de
         hogar,barbacoas, trabajos de soporte de computadoras, cajones y entre
         muchas cosas para regalar o para ti. Trabajamos en lana y tejido para
@@ -67,6 +73,7 @@
         salud.
         Tenemos variedad y diferentes enfoques para una eleccion mas bonita
         para ti. </p>
+        </header>
 </cuerpo>
 </body>
 </html>
@@ -88,25 +95,29 @@
 </head>
 <body>
 <body>
+<header class="row aling-items-center header-main justify-content-center">
+  <div class="col-md-7 text-center text-md-start">
+
 <h1>Nuestros productos </h1>
 
-    <div class="cel">
+    <div class="cel" class="row aling-items-center header-main justify-content-left" >
 	
 	
 	<img  src="![imagen text](https://github.com/nicoartigas/nicoartigas.github.io/blob/main/soporte%20de%20cel.jpg)" alt="soporte par celulares de madera" title="Soporte de celulares en madera" width="250" height="250" />
 
 
-    <img  src=" ![imagen text]( https://github.com/nicoartigas/nicoartigas.github.io/blob/main/soporte%20compu.jpg  )   " alt="soporte para netbook" title="Soporte para netbook" width="600" height="500"/>
+    <img  src=" ![imagen text]( https://github.com/nicoartigas/nicoartigas.github.io/blob/main/soporte%20compu.jpg)" alt="soporte para netbook" title="Soporte para netbook" width="600" height="500"/>
 		
     <img  src="![imagen text](https://github.com/nicoartigas/nicoartigas.github.io/blob/main/ganchos%20madera.jpg)" alt="ganchos para ropa" title="Ganchos para ropa" width="600" height="500"/>
    
    
-   <img  src="![image text](https://github.com/nicoartigas/nicoartigas.github.io/blob/main/MATERA.jpg)" alt="matera en madera" title="matera en madera" width="300" height="400"/>
+   <img  src="![image text](https://github.com/nicoartigas/nicoartigas.github.io/blob/main/MATERA.jpg)"
+    alt="matera en madera" title="matera en madera" width="300" height="400"/>
 
     </div>    
     
     
-    <div class="frascos">
+    <div class="frascos"class="row aling-items-center header-main justify-content-left" >
 
     <img   src=" ![image text](https://github.com/nicoartigas/nicoartigas.github.io/blob/main/frascos%20decorados.jpg)  " alt="reciclaje de casa" title="reciclaje de casa" width="500" height="300"/>
 	
@@ -117,7 +128,7 @@
     <img src="![image text](https://github.com/nicoartigas/nicoartigas.github.io/blob/main/decoracion-de-frasco-con-tela-para-evento.jpg)" alt="decoracion souvenir" title="decoracion souvenir" width="300" height="500"/>
     </div>
 
-    <div class="barbacoa">
+    <div class="barbacoa" class="row aling-items-center header-main justify-content-left">
 	
     <img   src="![image text](https://github.com/nicoartigas/nicoartigas.github.io/blob/main/abridor%20de%20botella.jpg)" alt="Abridor de botellas" title="Abridor de botellas" width="300" height="400"/>
 	
@@ -128,7 +139,7 @@
     <img src="![image text](https://github.com/nicoartigas/nicoartigas.github.io/blob/main/aviso%20chorizo.jpg)" alt="corta vientos" title="corta vientos" width="500" height="300"/>
     </div>
         
-        <div class="lanas">
+        <div class="lanas"class="row aling-items-center header-main justify-content-left" >
     <img   src="![image text](https://github.com/nicoartigas/nicoartigas.github.io/blob/main/zapatitos%20de%20bebe.jpg)" alt="Zapatitos de bebes" title="Zapatitos de bebe" width="500" height="400"/>
 	
     <img    src="![image text](https://github.com/nicoartigas/nicoartigas.github.io/blob/main/ZAPATOS%20DE%20LANA.jpg)" alt="lana trabajos" title="trabajos con lana" width="500" height="400"/> 
@@ -138,6 +149,7 @@
 
     </div>
 </section>
+</header>
   
 
  
@@ -158,32 +170,13 @@
     <link rel="stylesheet" href="css/estilos.css"/>
     <title>kickstreets-Creo&Pinto</title>
 </head>
-<body>   <section>
+<body> 
+<header class="row aling-items-center header-main justify-content-center">
+  <div class="col-md-7 text-center text-md-start"></div>
+  <section>
 
         <h1> Comunicate con nosotros y solicita tu pedido</h1> 
 
-
-        <!--form action="procesar.php" name="contacto" method="">
-            <div  class="flex-container">
-            <fieldset>
-                <legend>Dejanos tus datos y nos comunicamos</legend>
-                
-            <label>Nombre:</label><input type="text" name="nombre" placeholder="Nombre" required>
-            <br/>
-            <br/>
-            <label>Email:</label><input type="email" name="email" placeholder="Email" required >
-            <br/>
-            <br/>
-            <label>Telefono:</label><input type="tel" name="tel" placeholder="Celular" required>
-            <br/>
-            <br/>
-           
-        </fieldset>
-            </div>
-    
-    
-    
-    
     </form-->
     <!--boostrap en fieldset-->
     <form class="row gy-2 gx-3 align-items-center">
@@ -220,6 +213,7 @@
         </div>
       </form>
     </section>
+    </header>
     
       </aside>
 
@@ -241,11 +235,13 @@
     <title>kickstreets-Creo&Pinto</title>
 </head>
 <body>
+<header class="row aling-items-center header-main justify-content-center">
+      <div class="col-md-7 text-center text-md-start"> </div>
 
        <h1> Donde nos encontras </h1>
 
 
-       <p > Estamos en la ciudad de Paysandu en Uruguay. Tenemos diferentes medios de comunicacion
+       <p class="row aling-items-center header-main justify-content-center"> Estamos en la ciudad de Paysandu en Uruguay. Tenemos diferentes medios de comunicacion
         como tambien para ver nuestros trabajos. Participamos los dias domingo por la mañana
         en la feria de dicha ciudad por calle Soriano.
         <br/>  
@@ -293,15 +289,15 @@
     
 
    
-    <footer id="footer"> © Copyright - Derechos de creacion Pinto & Creo  </footer>
+    <footer   class="nav ms-auto text-dark flex-column flex-md-row"  id="footer"> © Copyright - Derechos de creacion Pinto & Creo  </footer>
 
 
 </body>
 </html>
 
 body {
-    background-color: rgb(69, 74, 82);
-    background-image:url("../image/fondo pag. claro.jpg");
+    background-color:  rgb(206, 204, 204);
+    
     text-align:center;
     justify-content: center;
     margin: top;
