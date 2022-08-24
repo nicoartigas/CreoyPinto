@@ -4,16 +4,12 @@
 
 body {
     
-    background-color: rgb(69, 74, 82);
-    background-image:url("../image/fondopag.jpg");
+    background-color:rgb(97, 88, 88);
     text-align:center;
     justify-content: center;
-    
-
     margin: top;
     padding: 0;
     position: 50px;
-    
     font-size: 2rem;
 }
 
@@ -157,16 +153,7 @@ iframe{
     margin-left: 15%;
 }
 
-/* musica */
 
-audio{
-   background-color: brown;
-   flex-direction: row;
-    width: 100%;
-    margin-top:  40%;
-    justify-content: center;
-    
-}
 h1{ 
     display: grid;
     background-color: black;
@@ -243,6 +230,24 @@ p {
     margin-top: 30px;
     position: absolute;
 }
+/*redes sociales*/
+.whatsapp {
+    position:fixed;
+    width:60px;
+    height:60px;
+    bottom:40px;
+    right:40px;
+    background-color:#25d366;
+    color:#FFF;
+    border-radius:50px;
+    text-align:center;
+    font-size:30px;
+    z-index:100;
+  }
+  
+  .whatsapp-icon {
+    margin-top:13px;
+  }
 
 /**media querie**/
 @media only screen and (max-widht: 576px){
