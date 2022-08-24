@@ -254,6 +254,7 @@
         Somos Creacion y creatividad en arte de madera,cuerina,souvenir,lana,entre otros. 
         Esperamos tu visita. 
        </p>
+
 	   <h1>Nuestra comunicacion </h1>
 
 
@@ -291,7 +292,7 @@
    
     <footer   class="nav ms-auto text-dark flex-column flex-md-row"  id="footer"> © Copyright - Derechos de creacion Pinto & Creo  </footer>
 
-
+</header>
 </body>
 </html>
 
