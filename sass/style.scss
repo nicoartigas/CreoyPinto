@@ -88,7 +88,7 @@ html {
 .container {
     @include img-size(400px,200px);
     background: none;
-    display: grid;
+    display: inline-block;
     justify-items: left;
     grid-template-columns: repeat(auto-fill, minmax(100px,1fr));
     grid-template-rows: minmax(auto-fill,auto);
@@ -189,7 +189,6 @@ h1{
 }
 
 fieldset{
-   
     font-family: oswald;
     background-color: map-get($estilos, black );
     background-position: 25%;
@@ -200,7 +199,8 @@ fieldset{
     margin-left: 8%;
     text-align: center;
     margin-top: 30%;
-}
+    }
+    
 
 .p {
     display: flex;
@@ -273,6 +273,7 @@ fieldset{
       
     }
     #container {
+        display: inline-block;
         flex-direction: column;
         text-align: center;
         width: 100%;
@@ -296,6 +297,7 @@ fieldset{
         height: initial;
         margin-top: 4rem;
         justify-items: center;
+        display: inline-block;
         flex-direction: column;
         text-align: center;
         flex-direction: column;
