@@ -220,23 +220,43 @@ fieldset{
     padding: 50px 100px;
 }
 /*redes sociales*/
-.whatsapp {
-    position:fixed;
-    width:60px;
-    height:60px;
-    bottom:40px;
-    right:40px;
-    background-color:#25d366;
-    color:#FFF;
-    border-radius:50px;
-    text-align:center;
-    font-size:30px;
-    z-index:100;
-  }
-  
-  .whatsapp-icon {
-    margin-top:13px;
-  }
+.bi-whatsapp{
+    position: inline-block;
+    width:55px;
+    height:55px;
+    line-height: 55px;
+    bottom: 30px;
+    right: 30px;
+    background: #0df053;
+    color: #fff;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+    
+    z-index: 100;
+}
+.bi-instagram{
+    position: inline-block;
+    width:55px;
+    height:55px;
+    line-height: 55px;
+    bottom: 30px;
+    right: 30px;
+    font-size: 30px;
+    z-index: 100;
+}
+.bi-facebook{
+    position: inline-block;
+    width:55px;
+    height:55px;
+    line-height: 55px;
+    bottom: 30px;
+    right: 30px;
+    font-size: 30px;
+    z-index: 100;
+
+}
+
 
     
 .logo {
