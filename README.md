@@ -103,51 +103,116 @@
     <div class="cel" class="row aling-items-center header-main justify-content-left" >
 	
 	
-	<img  src="![imagen text](https://github.com/nicoartigas/nicoartigas.github.io/blob/main/soporte%20de%20cel.jpg)" alt="soporte par celulares de madera" title="Soporte de celulares en madera" width="250" height="250" />
-
-
-    <img  src=" ![imagen text]( https://github.com/nicoartigas/nicoartigas.github.io/blob/main/soporte%20compu.jpg)" alt="soporte para netbook" title="Soporte para netbook" width="300" height="200"/>
-		
-    <img  src="![imagen text](https://github.com/nicoartigas/nicoartigas.github.io/blob/main/ganchos%20madera.jpg)" alt="ganchos para ropa" title="Ganchos para ropa" width="400" height="300"/>
-   
-   
-   <img  src="![image text](https://github.com/nicoartigas/nicoartigas.github.io/blob/main/MATERA.jpg)"
-    alt="matera en madera" title="matera en madera" width="300" height="400"/>
-
-    </div>    
-    
-    
-    <div class="frascos"class="row aling-items-center header-main justify-content-left" >
-
-    <img   src=" ![image text](https://github.com/nicoartigas/nicoartigas.github.io/blob/main/frascos%20decorados.jpg)  " alt="reciclaje de casa" title="reciclaje de casa" width="500" height="300"/>
-	
-    <img    src="![iamge text](https://github.com/nicoartigas/nicoartigas.github.io/blob/main/reciclaje.jpg) " alt="frascos decorados" title="frascos decorados" width="500" height="300"/>
-	
-    <img  src="![imagen text](https://github.com/nicoartigas/nicoartigas.github.io/blob/main/frascos%20arroz.jpg)" alt="decoracion de cocina" title="Decoracion de cocina" width="400" height="200"/>
-	
-    <img src="![image text](https://github.com/nicoartigas/nicoartigas.github.io/blob/main/decoracion-de-frasco-con-tela-para-evento.jpg)" alt="decoracion souvenir" title="decoracion souvenir" width="300" height="500"/>
+  <!--responsive boostrap imagenes-->
+     <section>
+      <div class="d-inline-flex p-2">
+     <div class="card" style="width:18rem;">
+      <img src=![image text](https://github.com/nicoartigas/nicoartigas.github.io/blob/main/soportecel.jpg) alt="soporte para celular">
+      <div class="card-body">
+        <h5 class="card-title">soporte para celular</h5>
+        <p class="card-text">Soporte moderno y super util para celular</p>
+        </div>
+    </div>
+      
+    <div class="card" style="width: 18rem;">
+      <img src=![image text](https://github.com/nicoartigas/nicoartigas.github.io/blob/main/soportecompu.jpg)class="card-img-top" alt="soporte para Notbook">
+      <div class="card-body">
+        <h5 class="card-title">Soporte para Notebook</h5>
+        <p class="card-text">Soporte moderno y super manejable para Notbook de todas las medidas</p>
+        </div>
     </div>
 
-    <div class="barbacoa" class="row aling-items-center header-main justify-content-left">
-	
-    <img   src="![image text](https://github.com/nicoartigas/nicoartigas.github.io/blob/main/abridor%20de%20botella.jpg)" alt="Abridor de botellas" title="Abridor de botellas" width="300" height="400"/>
-	
-    <img   src="![image text](https://github.com/nicoartigas/nicoartigas.github.io/blob/main/abridor2.jpg)" alt="proceso de trabajo" title="proceso de trabajo" width="370" height="200"/>
-	
-    <img src="![image text](https://github.com/nicoartigas/nicoartigas.github.io/blob/main/porta%20cerveza.jpg)" alt="porta cerveza" title="porta cerveza" width="400" height="200"/>
-	
-    <img src="![image text](https://github.com/nicoartigas/nicoartigas.github.io/blob/main/aviso%20chorizo.jpg)" alt="corta vientos" title="corta vientos" width="500" height="300"/>
-    </div>
+     <div class="card" style="width: 18rem;">
+      <img src=![image text](https://github.com/nicoartigas/nicoartigas.github.io/blob/main/ganchosmadera.jpg) class="card-img-top" alt="soportes/ropa/sombreros">
+      <div class="card-body">
+        <h5 class="card-title">Soporte ropa/sombreros</h5>
+        <p class="card-text">diferentes diseños y maneras de soportes para ropa,sombreros, etc. </p>
         
-        <div class="lanas"class="row aling-items-center header-main justify-content-left" >
-    <img   src="![image text](https://github.com/nicoartigas/nicoartigas.github.io/blob/main/zapatitos%20de%20bebe.jpg)" alt="Zapatitos de bebes" title="Zapatitos de bebe" width="500" height="400"/>
-	
-    <img    src="![image text](https://github.com/nicoartigas/nicoartigas.github.io/blob/main/ZAPATOS%20DE%20LANA.jpg)" alt="lana trabajos" title="trabajos con lana" width="350" height="200"/> 
-	
-    <img  src="![image text](https://github.com/nicoartigas/nicoartigas.github.io/blob/main/lana2.jpg)" alt="zapatos de lana" title="zapatos de lana" width="350" height="200"/>
-    <img src="image/tela frascos.jpg" alt="decoracion en lana" title="decoracion en lanas" width="400" height="300"/>
-
+      </div>
     </div>
+      </div>
+
+
+      <div class="d-inline-flex p-2">
+    <div class="card" style="width: 18rem;">
+      <img src=![image text](https://github.com/nicoartigas/nicoartigas.github.io/blob/main/reciclaje.jpg)class="card-img-top" alt="reciclaje en casa">
+      <div class="card-body">
+        <h5 class="card-title">Reciclando en casa</h5>
+        <p class="card-text">Reciclaje de frascos para un nuevo uso </p>
+         </div>
+    </div>
+
+    <div class="card" style="width: 18rem;">
+      <img src=![image text](https://github.com/nicoartigas/nicoartigas.github.io/blob/main/frascosdecorados.jpg) class="card-img-top" alt="frascos decorados">
+      <div class="card-body">
+        <h5 class="card-title">Frascos decorados</h5>
+        <p class="card-text">Decoracion simples para tu hogar, souvenir</p>
+       </div>
+    </div>
+
+    <div class="card" style="width: 18rem;">
+      <img src=![image text](https://github.com/nicoartigas/nicoartigas.github.io/blob/main/decoracion-de-frasco-con-tela-para-evento.jpg) class="card-img-top" alt="decoracion para eventos">
+      <div class="card-body">
+        <h5 class="card-title">Souvenir</h5>
+        <p class="card-text">Souvenir para cumpleaños</p>
+         </div>
+    </div>
+      </div>
+
+      <div class="d-inline-flex p-2">
+    <div class="card" style="width: 18rem;">
+      <img src=![image text](https://github.com/nicoartigas/nicoartigas.github.io/blob/main/abridordebotella.jpg) class="card-img-top" alt="abridor de botellas">
+      <div class="card-body">
+        <h5 class="card-title">Abridores de botellas</h5>
+        <p class="card-text">Abridores rusticos para botellas</p>
+        
+      </div>
+    </div>
+    <div class="card" style="width: 18rem;">
+      <img src=![image text](https://github.com/nicoartigas/nicoartigas.github.io/blob/main/portacerveza.jpg) class="card-img-top" alt="casillero de botellas">
+      <div class="card-body">
+        <h5 class="card-title">Casillero de botellas</h5>
+        <p class="card-text">Casillero rustico para botellas de vidrio</p>
+        
+      </div>
+    </div>
+      
+      
+    <div class="card" style="width: 18rem;">
+      <img src=![image text](https://github.com/nicoartigas/nicoartigas.github.io/blob/main/chorizo.webp) class="card-img-top" alt="corta vientos">
+      <div class="card-body">
+        <h5 class="card-title">Corta vientos</h5>
+        <p class="card-text">Corta vientos y insectos  o "chorizos"</p>
+       
+      </div>
+    </div>
+  </div>
+  <div class="d-inline-flex p-2">
+    <div class="card" style="width: 18rem;">
+      <img src="image/zapatitos de bebe.jpg" class="card-img-top" alt="zapatos para bebes">
+      <div class="card-body">
+        <h5 class="card-title">Zapatos para bebes</h5>
+        <p class="card-text">Zapatos para bebes en lana</p>
+     
+      </div>
+    </div>
+    <div class="card" style="width: 18rem;">
+      <img src="image/lana2.jpg" class="card-img-top" alt="trabajos en lana ">
+      <div class="card-body">
+        <h5 class="card-title">Trabajos en lana</h5>
+        <p class="card-text">hacemos tu pedido en lanas </p>
+     
+      </div>
+    </div>
+    <div class="card" style="width: 18rem;">
+      <img src="image/ZAPATOS DE LANA.jpg" class="card-img-top" alt="Zapatos en lana ">
+      <div class="card-body">
+        <h5 class="card-title">Zapatos yoga adultos en lana</h5>
+        <p class="card-text">Zapatos en lana para adultos</p>
+        
+      </div>
+    </div>
+  </div>
 </section>
 </header>
   
@@ -241,7 +306,8 @@
        <h1> Donde nos encontras </h1>
 
 
-       <p class="row aling-items-center header-main justify-content-center"> Estamos en la ciudad de Paysandu en Uruguay. Tenemos diferentes medios de comunicacion
+       <p class="row aling-items-center header-main justify-content-center"> 
+       Estamos en la ciudad de Paysandu en Uruguay. Tenemos diferentes medios de comunicacion
         como tambien para ver nuestros trabajos. Participamos los dias domingo por la mañana
         en la feria de dicha ciudad por calle Soriano.
         <br/>  
@@ -255,50 +321,63 @@
         Esperamos tu visita. 
        </p>
 
-	   <h1>Nuestra comunicacion </h1>
+	   
 
 
-<div>
-    <a href="https://www.instagram.com/">ir a Instagram </a>
-    </div>
-    <br/>
-    <div>
-    <a href=" https://es-la.facebook.com/">ir a Facebbok</a>
-    </div>
-    <br/>
-    <div>
-    <a href="https://api.whatsapp.com/send?phone=03398507056">whatsapp</a> 
-    </div>
-    <style>
-        div {
-           
-          
-           text-align: center;
-           font-size:x-large;
-           background-color:rgb(77, 82, 80);
-        }
-        a{
-           
-           text-decoration-color: black;
-           color: rgb(241, 237, 237);
-        }
-      </style>
 
 
+
+<div class="card">
+  <div class="card-header" >
+    <div class="d-inline-flex p-2"  class="row aling-items-center header-main justify-content-center">
+ 
+     
+    
+      <a href="https://api.whatsapp.com/send?phone=03398507056">
+      <svg xmlns="https://api.whatsapp.com/send?phone=03398507056"  width="40" height="40" fill="green" class="bi bi-whatsapp" viewBox="0 0 16 16">
+        <path  d="M13.601 2.326A7.854 7.854 0 0 0 7.994 0C3.627 0 .068 3.558.064 7.926c0 1.399.366 2.76 1.057 3.965L0 16l4.204-1.102a7.933 7.933 0 0 0 3.79.965h.004c4.368 0 7.926-3.558 7.93-7.93A7.898 7.898 0 0 0 13.6 2.326zM7.994 14.521a6.573 6.573 0 0 1-3.356-.92l-.24-.144-2.494.654.666-2.433-.156-.251a6.56 6.56 0 0 1-1.007-3.505c0-3.626 2.957-6.584 6.591-6.584a6.56 6.56 0 0 1 4.66 1.931 6.557 6.557 0 0 1 1.928 4.66c-.004 3.639-2.961 6.592-6.592 6.592zm3.615-4.934c-.197-.099-1.17-.578-1.353-.646-.182-.065-.315-.099-.445.099-.133.197-.513.646-.627.775-.114.133-.232.148-.43.05-.197-.1-.836-.308-1.592-.985-.59-.525-.985-1.175-1.103-1.372-.114-.198-.011-.304.088-.403.087-.088.197-.232.296-.346.1-.114.133-.198.198-.33.065-.134.034-.248-.015-.347-.05-.099-.445-1.076-.612-1.47-.16-.389-.323-.335-.445-.34-.114-.007-.247-.007-.38-.007a.729.729 0 0 0-.529.247c-.182.198-.691.677-.691 1.654 0 .977.71 1.916.81 2.049.098.133 1.394 2.132 3.383 2.992.47.205.84.326 1.129.418.475.152.904.129 1.246.08.38-.058 1.171-.48 1.338-.943.164-.464.164-.86.114-.943-.049-.084-.182-.133-.38-.232z"/>
+      </svg>
+      </a>
+      </br>
+      </br>
+      <a href="https://www.instagram.com/">
+      <svg xmlns="https://www.instagram.com/"    width="40" height="40" fill="black" class="bi bi-instagram" viewBox="0 0 16 16">
+        <path d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.917 3.917 0 0 0-1.417.923A3.927 3.927 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.916 3.916 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.926 3.926 0 0 0-.923-1.417A3.911 3.911 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0h.003zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599.28.28.453.546.598.92.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.47 2.47 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.478 2.478 0 0 1-.92-.598 2.48 2.48 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233 0-2.136.008-2.388.046-3.231.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92.28-.28.546-.453.92-.598.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045v.002zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92zm-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217zm0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334z"/>
+      </svg>
+      </a>
+      </br>
+      </br>
+      <a href="https://es-la.facebook.com/">
+      <svg xmlns=" https://es-la.facebook.com/" width="40" height="40" fill="blue" class="bi bi-facebook" viewBox="0 0 16 16">
+        <path d="M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951z"/>
+      </svg>
+      </a>
+      </div>
+    
+  </div>
+  <div class="card-body">
+    <h5 class="card-title"></h5>
+    <p class="card-text" >Creo & Pinto  ©  Paysandu-Uruguay</p>
+    
+    
+  </div>
+</div>
 
 
     
 
    
-    <footer   class="nav ms-auto text-dark flex-column flex-md-row"  id="footer"> © Copyright - Derechos de creacion Pinto & Creo  </footer>
 
 </header>
 </body>
 </html>
 
+@import url('https://fonts.googleapis.com/css2? family= Anek+Latin & family= Fascinate & family= Oswald:wght@700 & display=swap');
+
+
+
 body {
-    background-color:  rgb(206, 204, 204);
-    
+    background-color: rgb;
     text-align:center;
     justify-content: center;
     margin: top;
@@ -321,28 +400,19 @@ html {
     font-size: 15px;
     height: 100%;
 }
-
-#container{
-    background-image: url("../image/flores\ footer.jpg");
-    background-color: map-get($estilos, black);
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    background-position: left;
-    background: #fff;
-   position: fixed;
-   top: 0;
-   left: 0;
-   width: 100%;
-   z-index: 999px;
-   box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+.header-main{
+    height: 100vh;
 }
 
 
-nav ul li {
+
+
+.nav-link {
     padding:50px 10px ;
     display: inline-block;
     margin-top: auto;
     align-items:initial;
-    justify-content: space-between;
+    justify-content: center;
     text-decoration: none;
     color: rgb(14, 13, 13);
     cursor: pointer;
@@ -368,6 +438,21 @@ nav ul li {
 }
  
 /* Galeria */
+.col-sm-4{
+    display:flex;
+    background: url(4,2fr );
+   
+    background-color: white;
+    left: 30%;
+}
+.d-inline-flex{
+
+ display: flex;
+ justify-items: center;
+grid-template-columns: repeat(1, 3fr);
+grid-template-rows: repeat(4, 1fr);
+}
+
 
 /*mixing*/
 @mixin img-size($height,$width) {
@@ -380,73 +465,17 @@ nav ul li {
 .container {
     @include img-size(400px,200px);
     background: none;
-    display: grid;
-    justify-items: center;
+    display: inline-block;
+    justify-items: left;
     grid-template-columns: repeat(auto-fill, minmax(100px,1fr));
     grid-template-rows: minmax(auto-fill,auto);
     gap: 20px;
     min-height: 576px;
-    padding: 20px;
+    padding: 10px;
     align-items:center;
 }
 
-.cel {
-    background: none;
-    display: grid;
-    margin-top: 10px;
-    height: 400px;
-    justify-items: center;
-    grid-template-columns: repeat(3, 2fr);
-    grid-template-rows: repeat(1, 2fr);
-    gap: 20px;
-    row-gap: 10px;
-    white-space: 5px;
-    border-radius: 100px;
-}
 
-.frascos{
-    background:none;
-    display:grid; 
-    margin-top: 50px;
-    height: 500px;
-    justify-items: center;
-    grid-template-columns: repeat(3, 2fr);
-    grid-template-rows: repeat(1, 2fr);
-    gap: 50px;
-    row-gap: 25px;
-    white-space: 70%;
-    border-radius: 10px;
-    
-}
-
-.barbacoa{
-    background: none;
-    display: grid;
-    margin-top:  50px;
-    height: 300px;
-    justify-items: center;
-    grid-template-columns: repeat(3, 2fr);
-    grid-template-rows: repeat(1, 2fr);
-    gap: 50px;
-    row-gap: 25px;
-    white-space: 70%;
-    border-radius: 10px;
-}
-
-.lanas{
-    background: none;
-    display: grid;
-    margin-top:  50px;
-    height: 300px;
-    justify-items: center;
-    grid-template-columns: repeat(3, 2fr);
-    grid-template-rows: repeat(1, 2fr);
-    gap: 50px;
-    row-gap: 25px;
-    white-space: 70%;
-    border-radius: 10px;
-
-}
 
 /* comunicate */ 
 
@@ -459,19 +488,9 @@ iframe{
     margin-left: 15%;
 }
 
-fieldset{
-   
-    font-family: oswald;
-    background-color: map-get($estilos, black );
-    background-position: 25%;
-    color: rgb(241, 239, 239);
-    font-size: 35px;
-    width: 70%;
-    left: 50%;
-    margin-left: 8%;
-    text-align: center;
-    margin-top: 30%;
-}
+
+
+
 
 h1{ 
     display: grid;
@@ -485,10 +504,26 @@ h1{
     letter-spacing: 5px;
     margin:10%; 
     min-height: 576px;
-    align-items:center;    
+    align-items:center;
+  
+    
 }
 
-p {
+fieldset{
+    font-family: oswald;
+    background-color: map-get($estilos, black );
+    background-position: 25%;
+    color: rgb(241, 239, 239);
+    font-size: 35px;
+    width: 70%;
+    left: 50%;
+    margin-left: 8%;
+    text-align: center;
+    margin-top: 30%;
+    }
+    
+
+.p {
     display: flex;
     background: map-get($estilos,black)(8, 8, 8);
     background-position: center;
@@ -505,6 +540,43 @@ p {
     text-align:center;
     padding: 50px 100px;
 }
+/*redes sociales*/
+.bi-whatsapp{
+    position: inline-block;
+    width:55px;
+    height:55px;
+    line-height: 55px;
+    bottom: 30px;
+    right: 30px;
+    background: #0df053;
+    color: #fff;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+    
+    z-index: 100;
+}
+.bi-instagram{
+    position: inline-block;
+    width:55px;
+    height:55px;
+    line-height: 55px;
+    bottom: 30px;
+    right: 30px;
+    font-size: 30px;
+    z-index: 100;
+}
+.bi-facebook{
+    position: inline-block;
+    width:55px;
+    height:55px;
+    line-height: 55px;
+    bottom: 30px;
+    right: 30px;
+    font-size: 30px;
+    z-index: 100;
+
+}
 
 
     
@@ -518,67 +590,42 @@ p {
 
 }
 
-/*footer*/ 
 
-#footer{
-    background-image: url("../image/flores\ footer.jpg");
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: rgb(36, 39, 44);
-    font-size: 16px;
-    color:map-get($estilos,white)(214, 214, 214);
-    padding: 5px;
-    width: 100vw;
-    text-align: justify;
-    justify-content: center;
-    margin-top: 30px;
-    position: absolute;
-}
 
 /**media querie**/
 @media only screen and (max-widht: 576px){
     body {
         flex-direction: column;
-        text-align: center;
+        margin-top: 4rem;
       
     }
-    #container {
-        flex-direction: column;
-        text-align: center;
-        width: 100%;
-        height: 200px;
-        
-        
-
+    .header-main{
+            height: initial;
+        }
     }
+ 
+    
     h1{
         flex-direction: column;
         text-align: center;
-        width: 100%;
-        grid-template-columns: repeat(1, 1fr);
-        grid-template-rows: repeat(3, 1fr);
+        width: 100%;   
     }
- 
-    .container.cel .barbacoa .frascos .lanas  {
-        flex-direction: column;
-        text-align: center;
-        flex-direction: column;
-        width: 100%;
-        grid-template-columns: repeat(1, 1fr);
-        grid-template-rows: repeat(3, 1fr);
-    }
- 
-    #footer {
-        flex-direction: column;
-        text-align: center;
-        text-align: center;
-        width: 100%;
-        max-width: 1200px;
-        margin: auto;
-       position:absolute;
-       left:-0.5%;
-    }
-}
+    .d-inline-flex  {
+      flex-direction: column;
+      grid-template-columns: repeat(1, 2fr);
+      grid-template-rows: repeat(4, 2fr);
 
+    }
+
+    .card{
+        
+        display: table-column-group;
+        flex-direction: column;
+        grid-template-columns: repeat( 1, 2fr);
+        grid-template-rows: repeat(4,2fr);
+       
+        
+        }
 
 
     
