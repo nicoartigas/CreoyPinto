@@ -30,19 +30,7 @@ html {
     height: 100vh;
 }
 
-#container{
-    
-    background-color: map-get($estilos, black);
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    background-position: left;
-    background: #fff;
-   position: fixed;
-   top: 0;
-   left: 0;
-   width: 100%;
-   z-index: 999px;
-   box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-}
+
 
 
 .nav-link {
@@ -76,6 +64,21 @@ html {
 }
  
 /* Galeria */
+.col-sm-4{
+    display:flex;
+    background: url(4,2fr );
+   
+    background-color: white;
+    left: 30%;
+}
+.d-inline-flex{
+
+ display: flex;
+ justify-items: center;
+grid-template-columns: repeat(1, 3fr);
+grid-template-rows: repeat(4, 1fr);
+}
+
 
 /*mixing*/
 @mixin img-size($height,$width) {
@@ -98,11 +101,7 @@ html {
     align-items:center;
 }
 
-.madera {
-        background-color: green;
-        float:left;
-        
-    }
+
 
 /* comunicate */ 
 
@@ -219,19 +218,7 @@ fieldset{
 
 /*footer*/ 
 
-#footer{
-    background-image: url("../image/flores\ footer.jpg");
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: rgb(36, 39, 44);
-    font-size: 16px;
-    color:map-get($estilos,white)(214, 214, 214);
-    padding: 5px;
-    width: 100vw;
-    text-align: justify;
-    justify-content: center;
-    margin-top: 30px;
-    position: absolute;
-}
+
 
 /**media querie**/
 @media only screen and (max-widht: 576px){
@@ -240,34 +227,34 @@ fieldset{
         margin-top: 4rem;
       
     }
-   
-        
     .header-main{
             height: initial;
         }
-
-
-    }
-    h1{
-        flex-direction: column;
-        text-align: center;
-        width: 100%;
-        grid-template-columns: repeat(1, 1fr);
-        grid-template-rows: repeat(3, 1fr);
     }
  
     
- 
-    #footer {
+    h1{
         flex-direction: column;
         text-align: center;
-        text-align: center;
-        width: 100%;
-        max-width: 1200px;
-        margin: auto;
-       position:absolute;
-       left:-0.5%;
+        width: 100%;   
     }
+    .d-inline-flex  {
+      flex-direction: column;
+      grid-template-columns: repeat(1, 2fr);
+      grid-template-rows: repeat(4, 2fr);
+
+    }
+
+    .card{
+        
+        display: table-column-group;
+        flex-direction: column;
+        grid-template-columns: repeat( 1, 2fr);
+        grid-template-rows: repeat(4,2fr);
+       
+        
+        }
+
 
 
 
