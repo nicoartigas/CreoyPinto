@@ -159,9 +159,7 @@ p {
 }
 
 /*footer*/ 
-.card{
 
-}
 
 /*redes sociales*/
 .bi-whatsapp{
@@ -202,7 +200,7 @@ p {
 }
 
 /**media querie**/
-@media only screen and (max-widht: 576px)
+@media only screen and (max-widht: 576px){
 
     body {
         flex-direction: column;
@@ -216,6 +214,7 @@ p {
         width: 100%;
        
     }
+}
     .d-inline-flex  {
         flex-direction: column;
         grid-template-columns: repeat(1, 2fr);
