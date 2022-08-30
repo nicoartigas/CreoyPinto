@@ -3,7 +3,7 @@
 
 
 body {
-    background-color: rgb(206, 204, 204);
+    background-color: rgb;
     text-align:center;
     justify-content: center;
     margin: top;
@@ -31,7 +31,7 @@ html {
 }
 
 #container{
-    background-image: url("../image/flores\ footer.jpg");
+    
     background-color: map-get($estilos, black);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     background-position: left;
@@ -98,63 +98,11 @@ html {
     align-items:center;
 }
 
-.cel {
-    background: none;
-    display: grid;
-    margin-top: 10px;
-    height: 400px;
-    justify-items: center;
-    grid-template-columns: repeat(3, 2fr);
-    grid-template-rows: repeat(1, 2fr);
-    gap: 20px;
-    row-gap: 10px;
-    white-space: 5px;
-    border-radius: 100px;
-}
-
-.frascos{
-    background:none;
-    display:grid; 
-    margin-top: 50px;
-    height: 500px;
-    justify-items: center;
-    grid-template-columns: repeat(3, 2fr);
-    grid-template-rows: repeat(1, 2fr);
-    gap: 50px;
-    row-gap: 25px;
-    white-space: 70%;
-    border-radius: 10px;
-    
-}
-
-.barbacoa{
-    background: none;
-    display: grid;
-    margin-top:  50px;
-    height: 300px;
-    justify-items: center;
-    grid-template-columns: repeat(3, 2fr);
-    grid-template-rows: repeat(1, 2fr);
-    gap: 50px;
-    row-gap: 25px;
-    white-space: 70%;
-    border-radius: 10px;
-}
-
-.lanas{
-    background: none;
-    display: grid;
-    margin-top:  50px;
-    height: 300px;
-    justify-items: center;
-    grid-template-columns: repeat(3, 2fr);
-    grid-template-rows: repeat(1, 2fr);
-    gap: 50px;
-    row-gap: 25px;
-    white-space: 70%;
-    border-radius: 10px;
-
-}
+.madera {
+        background-color: green;
+        float:left;
+        
+    }
 
 /* comunicate */ 
 
@@ -292,12 +240,7 @@ fieldset{
         margin-top: 4rem;
       
     }
-    #container {
-        display: inline-block;
-        flex-direction: column;
-        text-align: center;
-        width: 100%;
-        height: 200px;
+   
         
     .header-main{
             height: initial;
@@ -313,18 +256,7 @@ fieldset{
         grid-template-rows: repeat(3, 1fr);
     }
  
-    .container.cel .barbacoa .frascos .lanas  {
-        height: initial;
-        margin-top: 4rem;
-        justify-items: center;
-        display: inline-block;
-        flex-direction: column;
-        text-align: center;
-        flex-direction: column;
-        width: 100%;
-        grid-template-columns: repeat(1, 1fr);
-        grid-template-rows: repeat(3, 1fr);
-    }
+    
  
     #footer {
         flex-direction: column;
@@ -336,7 +268,7 @@ fieldset{
        position:absolute;
        left:-0.5%;
     }
-}
+
 
 
 
